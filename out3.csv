@@ -1,0 +1,11 @@
+_index,_type,_id,_score,_source.date,_source.cost,_source.custid,_source.busno,_source.source,_source.bid,_source.dest
+test_demo,test,AV3BhIYlQv4ihfkxpDQ1,1.0,1-08-2013,300,c1,1234,Chennai,1,Coimbatore
+test_demo,test,AV3BhI0Y9ttR5YXxNp8D,1.0,1-08-2013,300,c3,1234,Chennai,3,Coimbatore
+test_demo,test,AV3BhH0tmWD1jFsCgtYU,1.0,1-08-2013,300,c11,1234,Chennai,11,Coimbatore
+test_demo,test,AV3BhI0-9ttR5YXxNp8H,1.0,1-08-2013,300,c15,1234,Chennai,15,Coimbatore
+test_demo,test,AV3BhH1DmWD1jFsCgtYX,1.0,1-08-2013,300,c20,1234,Chennai,20,Coimbatore
+test_demo,test,AV3BhI1L9ttR5YXxNp8J,1.0,1-08-2013,300,c21,1234,Chennai,21,Coimbatore
+test_demo,test,AV3BhIZyQv4ihfkxpDQ9,1.0,1-08-2013,200,c25,2345,Chennai,25,Coimbatore
+test_demo,test,AV3BhH1XmWD1jFsCgtYa,1.0,1-08-2013,200,c29,2345,Chennai,29,Coimbatore
+test_demo,test,AV3BhIZ_Qv4ihfkxpDQ_,1.0,1-08-2013,200,c31,2345,Chennai,31,Coimbatore
+test_demo,test,AV3BhH1tmWD1jFsCgtYd,1.0,1-08-2013,200,c38,2345,Chennai,38,Coimbatore
